@@ -42,7 +42,7 @@ src/
 
 Clone the repository:
 
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Mink2551/pach-pim
 
 Install dependencies:
 
